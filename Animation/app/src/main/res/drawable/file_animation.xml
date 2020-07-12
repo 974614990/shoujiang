@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <!--一个item对应一帧：一张图片
+    drawable：配制动画的图片
+    duration：配制这张图片在整个动画中播放的时间  单位毫秒
+    -->
+    <item android:drawable="@drawable/campfire01" android:duration="200"/>
+    <item android:drawable="@drawable/campfire02" android:duration="200"/>
+    <item android:drawable="@drawable/campfire03" android:duration="200"/>
+    <item android:drawable="@drawable/campfire04" android:duration="200"/>
+    <item android:drawable="@drawable/campfire05" android:duration="200"/>
+    <item android:drawable="@drawable/campfire06" android:duration="200"/>
+    <item android:drawable="@drawable/campfire07" android:duration="200"/>
+    <item android:drawable="@drawable/campfire08" android:duration="200"/>
+    <item android:drawable="@drawable/campfire09" android:duration="200"/>
+    <item android:drawable="@drawable/campfire10" android:duration="200"/>
+    <item android:drawable="@drawable/campfire11" android:duration="200"/>
+    <item android:drawable="@drawable/campfire12" android:duration="200"/>
+    <item android:drawable="@drawable/campfire13" android:duration="200"/>
+    <item android:drawable="@drawable/campfire14" android:duration="200"/>
+    <item android:drawable="@drawable/campfire15" android:duration="200"/>
+    <item android:drawable="@drawable/campfire16" android:duration="200"/>
+    <item android:drawable="@drawable/campfire17" android:duration="200"/>
+
+
+
+</animation-list>

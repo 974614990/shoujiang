@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+<!--    <swu.ht.java.waveloading.WaveView-->
+<!--        android:layout_width="300dp"-->
+<!--        android:layout_height="300dp"-->
+<!--        android:background="@color/colorAccent"-->
+<!--        app:LineColor="#fff"-->
+<!--        app:LineSize="5"-->
+<!--        app:waveLength="200"-->
+<!--        app:waveCrest="60"/>-->
+
+<!--    <swu.ht.java.waveloading.CircleView-->
+<!--        android:layout_width="300dp"-->
+<!--        android:layout_height="300dp"/>-->
+
+    <swu.ht.java.waveloading.WaveLoadingView
+        android:id="@+id/load"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"/>
+
+</RelativeLayout>
